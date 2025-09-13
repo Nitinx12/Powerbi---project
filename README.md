@@ -34,7 +34,7 @@ This project is a comprehensive dashboard built to provide a clear overview of B
 
 ### **Contact**
 
-Your Name \- [@YourTwitterHandle](https://www.google.com/search?q=https://twitter.com/YourTwitterHandle) \- your.email@example.com
+Email - Nitin321x@gmail.com
 
-Project Link: [https://github.com/your-username/your-project](https://www.google.com/search?q=https://github.com/your-username/your-project)
+
 
